@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:a10="http://www.w3.org/2005/Atom" version="2.0">
+    <channel xmlns:os="http://a9.com/-/spec/opensearch/1.1/">
+        <title>jobs in Jakarta, Indonesia - Stack Overflow</title>
+        <link>https://stackoverflow.com/jobs</link>
+        <description>jobs in Jakarta, Indonesia - Stack Overflow</description>
+        <image>
+            <url>http://cdn.sstatic.net/Sites/stackoverflow/img/favicon.ico?v=4f32ecc8f43d</url>
+            <title>jobs in Jakarta, Indonesia - Stack Overflow</title>
+            <link>https://stackoverflow.com/jobs</link>
+        </image>
+        <os:totalResults>13</os:totalResults>
+        <item>
+            <guid isPermaLink="false">156191</guid>
+            <link>https://stackoverflow.com/jobs/156191/it-solution-development-jenius?a=QnEW3LqsiBy</link>
+            <a10:author>
+                <a10:name>Jenius</a10:name>
+            </a10:author>
+            <category>java</category>
+            <category>spring</category>
+            <category>json</category>
+            <category>xml</category>
+            <title>IT Solution Development at Jenius (South Jakarta, Indonesia)</title>
+            <description>&lt;p&gt;As a Solution Development you will be responsible to:&lt;/p&gt;&lt;br /&gt;&lt;ul&gt;&lt;br /&gt;&lt;li&gt;Understand client requirements and how they translate in application features&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Collaborate with a team of IT professionals to set specifications for new applications&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Design creative prototypes according to specifications&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Write high quality source code to program complete applications within deadlines&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Perform unit and integration testing before launch&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Conduct functional and non-functional testing&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Troubleshoot and debug applications&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Evaluate existing applications to reprogram, update and add new features&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Develop technical documents and handbooks to accurately represent application design and code&lt;/li&gt;&lt;br /&gt;&lt;/ul&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Are You The Right Candidate?&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;ul&gt;&lt;br /&gt;&lt;li&gt;Bachelor Degree in IT, Computer Science or relevant field&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Having minimum 3 years of experience in relevant field&lt;/li&gt;&lt;br /&gt;&lt;li&gt;The ability to develop solution with minimum defect density within given timeline&lt;/li&gt;&lt;br /&gt;&lt;li&gt;The ability to self-assess risk of developed solution and provide mitigation action for continuous improvements&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Fluency in creating technical architecture documentation&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Technical qualification:&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Java&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Java Framework&lt;br /&gt;&lt;ul&gt;&lt;br /&gt;&lt;li&gt;Spring (AOP, Spring DM)&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Hibernate&lt;/li&gt;&lt;br /&gt;&lt;li&gt;OSGI&lt;/li&gt;&lt;br /&gt;&lt;/ul&gt;&lt;br /&gt;&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Oracle (DDL, DML)&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Web Service Protokol (SOAP)&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Rest / Json&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Apache Wicket (optional)&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Experience in building REST API (JSON &amp;amp; XML) based applications&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Experiences with code refactoring, design patterns, design-driven development, continuous deployment, highly scalable applications, application security&lt;/li&gt;&lt;br /&gt;&lt;/ul&gt;</description>
+            <pubDate>Fri, 29 Sep 2017 08:40:11 Z</pubDate>
+            <a10:updated>2017-09-29T08:40:11Z</a10:updated>
+            <location xmlns="http://stackoverflow.com/jobs/">South Jakarta, Indonesia</location>
+        </item>
+        <item>
+            <guid isPermaLink="false">149918</guid>
+            <link>https://stackoverflow.com/jobs/149918/systems-analyst-unit4?a=Ohe2QCL6za8</link>
+            <a10:author>
+                <a10:name>Unit4</a10:name>
+            </a10:author>
+            <category>.net</category>
+            <category>sql</category>
+            <category>asp.net</category>
+            <category>design</category>
+            <title>Systems Analyst at Unit4 (Kota Jakarta Selatan, Indonesia)</title>
+            <description>&lt;p&gt;We are Unit4, a leading provider of enterprise applications empowering people in service organizations. We are on a mission because we no longer accept the digital downgrade that people experience when they swap their personal devices for their work ones. We create business software that fits the way people work, not the other way around. Join us in our fight against the&amp;nbsp;&lt;a href="https://www.youtube.com/watch?v=SQpfEbanIwg" rel="nofollow"&gt;digital downgrade&lt;/a&gt;.&lt;/p&gt;&lt;br /&gt;&lt;p&gt;As the Systems Analyst (R&amp;amp;D) you will undertake the project to perform system study on the future products while at the same time, products improvement. You shall provide analysis and design for systems from a global perspective &amp;ndash; time management (TMS), payroll management (PMS), leave management (LMS), HR management (HMS) employee development (EDS) system. You will also perform user analysis and document requirements.&lt;/p&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;What you will do&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;ul&gt;&lt;br /&gt;&lt;li&gt;Development of new application systems for UNIT4 Prosoft HRMS&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Maintenance and enhancement of existing systems&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Review all programs prior to implementation to verify consistency and conformance with established departmental guidelines, policies and practices&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Assist in system analyst and design&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Provide system documentation and updates&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Provide 2&lt;sup&gt;nd&lt;/sup&gt;&amp;nbsp;level user support&lt;/li&gt;&lt;br /&gt;&lt;/ul&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Your approach&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;p&gt;You're smart and skilled. You are responsible, self-motivated and always driven to become better. You have a high degree of initiative and are always looking for the best solution for the customers. You are a solid team-player and enjoy working collaboratively and seeing a piece of work through to completion.&lt;/p&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;We ask&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;ul&gt;&lt;br /&gt;&lt;li&gt;Degree/Diploma in IT/Computer Science or equivalent.&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Minimum 5 years of experience in .NET programming language.&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Prefer with 2-4 years of HR systems experience.&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Strong technical skills in Microsoft .Net technology, .NET Framework, ASP.NET/MVC, Javascript, AJAX, Telerik and HTML5.&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Knowledge of relational database and Microsoft SQL Server.&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Able to work independently with minimum supervision.&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Possess problem solving and analytical skills.&lt;/li&gt;&lt;br /&gt;&lt;/ul&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;We offer&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;ul&gt;&lt;br /&gt;&lt;li&gt;Enthusiastic colleagues who are eager to learn from each other&lt;/li&gt;&lt;br /&gt;&lt;li&gt;A flexible and solution-oriented work place where you work hard and are valued for your input&lt;/li&gt;&lt;br /&gt;&lt;li&gt;A mature and productive development process, where everyone works at a sustainable pace&lt;/li&gt;&lt;br /&gt;&lt;li&gt;A close working relationship with our stakeholders and support desks&lt;/li&gt;&lt;br /&gt;&lt;/ul&gt;</description>
+            <pubDate>Mon, 25 Sep 2017 15:52:17 Z</pubDate>
+            <a10:updated>2017-09-25T15:52:17Z</a10:updated>
+            <location xmlns="http://stackoverflow.com/jobs/">Kota Jakarta Selatan, Indonesia</location>
+        </item>
+        <item>
+            <guid isPermaLink="false">143762</guid>
+            <link>https://stackoverflow.com/jobs/143762/software-engineer-pt-multi-adiprakarsa?a=MddZbT4tNTO</link>
+            <a10:author>
+                <a10:name>PT MULTI ADIPRAKARSA MANUNGGAL (KARTUKU)</a10:name>
+            </a10:author>
+            <category>java</category>
+            <category>c</category>
+            <category>c++</category>
+            <title>Software Engineer at PT MULTI ADIPRAKARSA MANUNGGAL (KARTUKU) (Setiabudi, Indonesia)</title>
+            <description>&lt;p&gt;&lt;strong&gt;Software engineer&lt;/strong&gt; will develop, configure, customize, integrate and unit test solutions based on the functional &amp;amp; technical specifications to meet quality &amp;amp; performance requirements.&lt;/p&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Software engineer is responsible for :&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;p&gt;&amp;bull;Develop, configure, and unit test solutions from specifications&lt;br&gt;&amp;bull;Ensure that solutions meet requirements in the design documentation&lt;br&gt;&amp;bull;Perform all work to agreed time and quality constraints&lt;br&gt;&amp;bull;Ensure that developed solutions are peer reviewed &amp;amp; documented&lt;br&gt;&amp;bull;Unit test solutions to ensure they meet quality standards&lt;/p&gt;</description>
+            <pubDate>Tue, 19 Sep 2017 06:37:59 Z</pubDate>
+            <a10:updated>2017-09-19T06:37:59Z</a10:updated>
+            <location xmlns="http://stackoverflow.com/jobs/">Setiabudi, Indonesia</location>
+        </item>
+        <item>
+            <guid isPermaLink="false">115944</guid>
+            <link>https://stackoverflow.com/jobs/115944/android-ios-engineer-at-largest-indonesian-e-pt-bukalapakcom?a=CSOb6H2jzCo</link>
+            <a10:author>
+                <a10:name>PT Bukalapak.com</a10:name>
+            </a10:author>
+            <category>android</category>
+            <category>java</category>
+            <category>ios</category>
+            <category>swift</category>
+            <title>Android/iOS Engineer at Largest Indonesian E-Marketplace at PT Bukalapak.com (Kota Jakarta Selatan, Indonesia)</title>
+            <description>&lt;p&gt;Tens of millions of page views, millions of customers, these are the kind of everyday scale that you will be handling at Bukalapak.&lt;/p&gt;&lt;br /&gt;&lt;p&gt;You will be building upon the highest-rated e-commerce app in the Indonesian market, and collaborate together&amp;nbsp;with our &amp;plusmn;100 person product &amp;amp; engineering teams to build the ultimate marketplace experience for millions of Indonesian mobile&amp;nbsp;shoppers and sellers.&lt;/p&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Living outside Jakarta or Indonesia? We can provide support for your relocation.&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;What you tell your friends you do&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;p&gt;"Reach your pocket and pull out your smartphone. Ah, awesome! You have a Bukalapak app installed! Well my friend, I built that."&lt;/p&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;What you will really be doing&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;ul&gt;&lt;br /&gt;&lt;li&gt;Continuously improve our native Android mobile apps with new features&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Stay current with mobile best practices (e.g. in memory management, UI layout and rendering, and network performance)&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Collaborate with testers, product managers, designers, and engineers in building user-friendly, scalable, and innovative mobile experience&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Perform code reviews, write unit tests, and contribute your ideas to improve our code quality&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Publish our mobile apps to the Google Play Store/Apple App Store(and with 5+ million installs for our apps, this step will always be exciting!)&lt;/li&gt;&lt;br /&gt;&lt;/ul&gt;</description>
+            <pubDate>Fri, 22 Sep 2017 19:21:02 Z</pubDate>
+            <a10:updated>2017-09-22T19:21:02Z</a10:updated>
+            <location xmlns="http://stackoverflow.com/jobs/">Kota Jakarta Selatan, Indonesia</location>
+        </item>
+        <item>
+            <guid isPermaLink="false">119744</guid>
+            <link>https://stackoverflow.com/jobs/119744/qa-engineer-at-largest-indonesian-e-marketplace-pt-bukalapakcom?a=E9OYOYwsbYI</link>
+            <a10:author>
+                <a10:name>PT Bukalapak.com</a10:name>
+            </a10:author>
+            <category>selenium</category>
+            <category>automated-tests</category>
+            <category>testing</category>
+            <category>cucumber</category>
+            <category>unit-testing</category>
+            <title>QA Engineer at Largest Indonesian E-Marketplace at PT Bukalapak.com (Kota Jakarta Selatan, Indonesia)</title>
+            <description>&lt;p&gt;&lt;strong&gt;As QA Engineer, you will be the&amp;nbsp;indispensable gatekeeper for the high quality of features that&amp;nbsp;we&amp;nbsp;develop at Bukalapak.&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;p&gt;You will be an indispensable&amp;nbsp;part of&amp;nbsp;a team of skilled and fun professionals in safeguarding the quality of newly developed and already existing features at Bukalapak. You will&amp;nbsp;do this through working hand-in-hand with your fellow engineers in&amp;nbsp;writing automated testing scripts in parallel with&amp;nbsp;the development of the feature.&lt;/p&gt;&lt;br /&gt;&lt;p&gt;Our &amp;plusmn;100 person product &amp;amp; engineering teams will be the perfect place for you to&amp;nbsp;collaborate and learn the ropes together in building the ultimate marketplace experience for&amp;nbsp;millions of Indonesian online shoppers and sellers.&amp;nbsp;Your efforts will ensure that millions of our customers continue to have the best&amp;nbsp;e-marketplace experience in Indonesia.&lt;/p&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Living outside Jakarta or Indonesia? We can provide support for your relocation.&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;p&gt;Please note that we do not provide&amp;nbsp;visa sponsorship, so you need to make sure that you are eligible to work in Indonesia.&lt;/p&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;What you tell your friends you do&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;p&gt;"I'm&amp;nbsp;writing awesome automated testing&amp;nbsp;scripts&amp;nbsp;that&amp;nbsp;ensure the long-term maintainability of exciting&amp;nbsp;new features that&amp;nbsp;my fellow engineers&amp;nbsp;develop.&amp;nbsp;I have keen eyes&amp;nbsp;for&amp;nbsp;edge cases and what-if scenarios, and&amp;nbsp;they are crucial in helping me&amp;nbsp;maintain the high quality and standards we have at Bukalapak."&lt;/p&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;What you will really be doing&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;ul&gt;&lt;br /&gt;&lt;li&gt;Write test scripts to automate complex test cases and scenarios for mobile apps and/or web apps&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Analyze user stories&amp;nbsp;to define test plan, including test scenarios and test cases, that will ensure the acceptance&amp;nbsp;criteria of the story are being fulfilled&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Execute all relevant testing types for the story, including user interface testing, functionality testing, performance testing, regression testing, unit testing, system testing, or integration testing&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Document your analysis and test reports&lt;/li&gt;&lt;br /&gt;&lt;/ul&gt;</description>
+            <pubDate>Fri, 22 Sep 2017 19:19:48 Z</pubDate>
+            <a10:updated>2017-09-22T19:19:48Z</a10:updated>
+            <location xmlns="http://stackoverflow.com/jobs/">Kota Jakarta Selatan, Indonesia</location>
+        </item>
+        <item>
+            <guid isPermaLink="false">119746</guid>
+            <link>https://stackoverflow.com/jobs/119746/software-engineer-at-largest-indonesian-e-pt-bukalapakcom?a=E9RyG1Bcx8Y</link>
+            <a10:author>
+                <a10:name>PT Bukalapak.com</a10:name>
+            </a10:author>
+            <category>ruby</category>
+            <category>ruby-on-rails</category>
+            <category>python</category>
+            <category>go</category>
+            <category>mongodb</category>
+            <title>Software Engineer at Largest Indonesian E-Marketplace at PT Bukalapak.com (Kota Jakarta Selatan, Indonesia)</title>
+            <description>&lt;p&gt;&lt;strong&gt;Tens of millions of page views, millions of customers, these are the kind of scale that you will be&amp;nbsp;working with&amp;nbsp;everyday&amp;nbsp;at Bukalapak.&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;p&gt;You will be an essential part of&amp;nbsp;a team of skilled and fun professionals in developing&amp;nbsp;high-performance and reliable web service/applications. Our 140+ person product &amp;amp; engineering teams will be the perfect place for you to&amp;nbsp;collaborate and learn the ropes together in building the ultimate marketplace experience for&amp;nbsp;millions of Indonesian online shoppers and sellers.&lt;/p&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Living outside Jakarta or Indonesia? We can provide support for your relocation.&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;p&gt;Please note that we do not provide&amp;nbsp;visa sponsorship, &lt;em&gt;so you need to make sure that you are eligible to work in Indonesia.&lt;/em&gt;&lt;/p&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;What you tell your friends you do&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;p&gt;"I'm a Software&amp;nbsp;Engineer at Bukalapak, I work together with my teammates in building, deploying, and monitoring&amp;nbsp;awesome web&amp;nbsp;services/applications&amp;nbsp;that bring positive impact and happiness to millions of users."&lt;/p&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;What you will really be doing&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;ul&gt;&lt;br /&gt;&lt;li&gt;Work&amp;nbsp;within a cross-functional product team, collaborating with front-end engineers and QA engineers in rapidly developing and delivering high quality&amp;nbsp;ideas to production.&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Develop&amp;nbsp;clean and scalable codes/APIs.&lt;/li&gt;&lt;br /&gt;&lt;li&gt;See the code you write&amp;nbsp;in the morning went live to&amp;nbsp;production in the afternoon.&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Learn&amp;nbsp;about&amp;nbsp;best practices in software craftsmanship. We have&amp;nbsp;biweekly knowledge sharing sessions, peer code reviews, and personal training budgets for every engineers.&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Use&amp;nbsp;exciting and cutting-edge technologies: from Ruby to Go to Erlang,&amp;nbsp;we're proudly polyglot and not shying away from&amp;nbsp;using the best tool for the job!&lt;/li&gt;&lt;br /&gt;&lt;/ul&gt;</description>
+            <pubDate>Sun, 10 Sep 2017 19:18:46 Z</pubDate>
+            <a10:updated>2017-09-10T19:18:46Z</a10:updated>
+            <location xmlns="http://stackoverflow.com/jobs/">Kota Jakarta Selatan, Indonesia</location>
+        </item>
+        <item>
+            <guid isPermaLink="false">115946</guid>
+            <link>https://stackoverflow.com/jobs/115946/front-end-engineer-at-largest-indonesian-e-pt-bukalapakcom?a=CSQKXK73UME</link>
+            <a10:author>
+                <a10:name>PT Bukalapak.com</a10:name>
+            </a10:author>
+            <category>javascript</category>
+            <category>html</category>
+            <category>css</category>
+            <category>reactjs</category>
+            <category>jquery</category>
+            <title>Front-End Engineer at Largest Indonesian E-Marketplace at PT Bukalapak.com (Kota Jakarta Selatan, Indonesia)</title>
+            <description>&lt;p&gt;&lt;strong&gt;Want to build&amp;nbsp;the ultimate marketplace experience for&amp;nbsp;millions of daily active users? We'd love to have you as part of our team.&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;p&gt;You will be an essential part of&amp;nbsp;a group&amp;nbsp;of skilled and fun professionals in crafting high-quality HTML,&amp;nbsp;CSS, and JS&amp;nbsp;that directly influence the web experience for millions of our loyal customers. You will be collaborating&amp;nbsp;with Backend and QA&amp;nbsp;engineers in&amp;nbsp;a cross-functional&amp;nbsp;team, rapidly&amp;nbsp;delivering exciting user-facing&amp;nbsp;improvements to critical parts of Bukalapak.&lt;/p&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Living outside Jakarta or Indonesia? We can provide support for your relocation. &lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;p&gt;Please note that we do not provide&amp;nbsp;visa sponsorship, so you need to make sure that you are eligible to work in Indonesia.&lt;/p&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;What you tell your friends you do&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;p&gt;"I'm a Front-end Engineer at Bukalapak, things&amp;nbsp;I built&amp;nbsp;are being&amp;nbsp;used by millions of our customers. What do you mean, 'what is front-end'? I built the front-end side of Bukalapak. Front as in, directly facing our customers.. I mean.. Sigh.. I build great websites, and what about you?"&lt;/p&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;What you will really be doing&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;ul&gt;&lt;br /&gt;&lt;li&gt;Create high-quality HTML/CSS/JavaScript code, transforming client-approved design into awesome experience for our customers&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Style all the features identified in the planning outline&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Conform to the W3C standards&lt;/li&gt;&lt;br /&gt;&lt;/ul&gt;</description>
+            <pubDate>Sun, 10 Sep 2017 18:18:27 Z</pubDate>
+            <a10:updated>2017-09-10T18:18:27Z</a10:updated>
+            <location xmlns="http://stackoverflow.com/jobs/">Kota Jakarta Selatan, Indonesia</location>
+        </item>
+        <item>
+            <guid isPermaLink="false">119743</guid>
+            <link>https://stackoverflow.com/jobs/119743/site-reliability-engineer-at-largest-indonesian-e-pt-bukalapakcom?a=E9NGTrZ51oA</link>
+            <a10:author>
+                <a10:name>PT Bukalapak.com</a10:name>
+            </a10:author>
+            <category>linux</category>
+            <category>kubernetes</category>
+            <category>performance</category>
+            <category>go</category>
+            <category>ruby</category>
+            <category>sysadmin</category>
+            <title>Site Reliability Engineer at Largest Indonesian E-Marketplace at PT Bukalapak.com (Kota Jakarta Selatan, Indonesia)</title>
+            <description>&lt;p&gt;&lt;strong&gt;Want to be the backbone for a massive scale system? We welcome you with open arms!&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;p&gt;You will be an essential part of a team of skilled and fun professionals in supporting high-velocity development teams in engineering high-performance and reliable web service/applications. You will be collaborating with Software Engineers, Frontend Engineers, and System Engineers to build high availability and high-performance infrastructure for the largest&amp;nbsp;online marketplace in Indonesia.&lt;/p&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Living outside Jakarta or Indonesia? We can provide support for your relocation.&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;p&gt;Please note that we do not provide visa sponsorship, so you need to make sure that you are eligible to work in Indonesia.&lt;/p&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;What you tell your friends you do&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;p&gt;"I'm a Site Reliability Engineer at Bukalapak, I work together with my teammates in building and monitoring high-performance and reliable web services/application. What, you haven't heard about "Site Reliability Engineers" before? Uh, it is like a hybrid of Software Engineers and System Engineers. No, it's different from DevOps."&lt;/p&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;What you will really be doing&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;ul&gt;&lt;br /&gt;&lt;li&gt;Develop various modules/packages/gems, along with its relevant documentations, in order to help our 20+ development teams in achieving high availability and highly performant services.&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Create tons of automation tools to automate boring redundant operational tasks.&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Learn about best practices for building high-availability and high-performance system from battle-proven experts.&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Holistically monitor the health of the entire system.&lt;/li&gt;&lt;br /&gt;&lt;/ul&gt;</description>
+            <pubDate>Sun, 10 Sep 2017 18:17:12 Z</pubDate>
+            <a10:updated>2017-09-10T18:17:12Z</a10:updated>
+            <location xmlns="http://stackoverflow.com/jobs/">Kota Jakarta Selatan, Indonesia</location>
+        </item>
+        <item>
+            <guid isPermaLink="false">130435</guid>
+            <link>https://stackoverflow.com/jobs/130435/full-stack-engineer-for-millions-of-users-kmklabs?a=HK7n8JkU1Uc</link>
+            <a10:author>
+                <a10:name>KMKLabs</a10:name>
+            </a10:author>
+            <category>ruby-on-rails</category>
+            <category>postgresql</category>
+            <category>full-text-search</category>
+            <category>tdd</category>
+            <category>python</category>
+            <title>Full-Stack Engineer for millions of users at KMKLabs (South Jakarta, Indonesia)</title>
+            <description>&lt;ul&gt;&lt;br /&gt;&lt;li&gt;&lt;strong&gt;Pair Programming&lt;/strong&gt;&amp;nbsp;on front-end (ES6, SCSS, Slim or XHP) &amp;amp; backend code (RoR or Laravel depending on the project &amp;amp; your interests)&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Writing functional and unit &lt;strong&gt;tests&lt;/strong&gt;&amp;nbsp;for all of your code&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Continuously &lt;strong&gt;learning&lt;/strong&gt;&amp;nbsp;inside and outside the office&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Working with product designers to manage requirements&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Working with DevOps to deploy your teams code&lt;/li&gt;&lt;br /&gt;&lt;/ul&gt;</description>
+            <pubDate>Tue, 05 Sep 2017 20:01:11 Z</pubDate>
+            <a10:updated>2017-09-05T20:01:11Z</a10:updated>
+            <location xmlns="http://stackoverflow.com/jobs/">South Jakarta, Indonesia</location>
+        </item>
+        <item>
+            <guid isPermaLink="false">130434</guid>
+            <link>https://stackoverflow.com/jobs/130434/android-engineer-for-millions-of-users-kmklabs?a=HK65dcNwRk4</link>
+            <a10:author>
+                <a10:name>KMKLabs</a10:name>
+            </a10:author>
+            <category>android</category>
+            <category>java</category>
+            <category>kotlin</category>
+            <category>tdd</category>
+            <category>rx-java</category>
+            <title>Android Engineer for millions of users at KMKLabs (Central Jakarta, Indonesia)</title>
+            <description>&lt;ul&gt;&lt;br /&gt;&lt;li&gt;&lt;strong&gt;Pair programming&lt;/strong&gt;&amp;nbsp;on mobile and server-side code&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Writing functional and unit &lt;strong&gt;tests&lt;/strong&gt;&amp;nbsp;for all of your code&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Staying current with best practices in memory management, UI layout and rendering, network performance, dll&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Working with product designers to manage requirements&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Publishing your work to the Google Play Store&lt;/li&gt;&lt;br /&gt;&lt;/ul&gt;</description>
+            <pubDate>Tue, 03 Oct 2017 02:18:26 Z</pubDate>
+            <a10:updated>2017-10-03T02:18:26Z</a10:updated>
+            <location xmlns="http://stackoverflow.com/jobs/">Central Jakarta, Indonesia</location>
+        </item>
+        <item>
+            <guid isPermaLink="false">130433</guid>
+            <link>https://stackoverflow.com/jobs/130433/infrastructure-engineer-handling-1m-requests-per-kmklabs?a=HK4NhGg9GJW</link>
+            <a10:author>
+                <a10:name>KMKLabs</a10:name>
+            </a10:author>
+            <category>python</category>
+            <category>ansible</category>
+            <category>ubuntu</category>
+            <category>jenkins</category>
+            <category>sysadm</category>
+            <category>sysadmin</category>
+            <title>Infrastructure Engineer handling 1M requests per second at KMKLabs (Central Jakarta, Indonesia)</title>
+            <description>&lt;ul&gt;&lt;br /&gt;&lt;li&gt;Building and managing our infrastructure, running on Google Cloud Platform and Amazon Web Services&lt;/li&gt;&lt;br /&gt;&lt;li&gt;&lt;strong&gt;Programming&lt;/strong&gt; infrastructure automation code in Ansible and Python&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Optimizing our server build and code deploy process&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Implementing auto-scaling techniques&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Enhancing monitoring tools across our servers&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Continuously learning inside and outside the office&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Working with software engineers to &lt;strong&gt;deploy code&lt;/strong&gt; regularly&lt;/li&gt;&lt;br /&gt;&lt;/ul&gt;</description>
+            <pubDate>Tue, 03 Oct 2017 02:12:47 Z</pubDate>
+            <a10:updated>2017-10-03T02:12:47Z</a10:updated>
+            <location xmlns="http://stackoverflow.com/jobs/">Central Jakarta, Indonesia</location>
+        </item>
+        <item>
+            <guid isPermaLink="false">122735</guid>
+            <link>https://stackoverflow.com/jobs/122735/software-engineer-mobile-web-reactjs-pt-tokopedia?a=Fa0QVGxfIUE</link>
+            <a10:author>
+                <a10:name>PT Tokopedia</a10:name>
+            </a10:author>
+            <category>reactjs</category>
+            <category>angularjs</category>
+            <category>javascript</category>
+            <title>Software Engineer - Mobile Web (React.js) at PT Tokopedia (Kecamatan Setiabudi, Indonesia)</title>
+            <description>&lt;p&gt;&lt;strong&gt;Responsibilities&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;ul&gt;&lt;br /&gt;&lt;li&gt;Developing new user-facing features using React.js&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Building reusable components and front-end libraries for future use&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Translating designs and wireframes into high quality code&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Optimizing components for maximum performance across a vast array of web-capable devices and browsers&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Create unit, scenario, integration sanity test etc if required&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Write Documentation for your code&lt;/li&gt;&lt;br /&gt;&lt;/ul&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Requirements&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;ul&gt;&lt;br /&gt;&lt;li&gt;Strong proficiency in JavaScript, including DOM manipulation and the JavaScript object model&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Thorough understanding of React.js and its core principles&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Experience with popular React.js workflows (such as Flux or Redux)&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Familiarity with newer specifications of EcmaScript&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Experience with data structure libraries (e.g., Immutable.js)&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Knowledge of isomorphic React is a plus&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Familiarity with RESTful APIs&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Knowledge of modern authorization mechanisms, such as JSON Web Token&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Familiarity with modern front-end build pipelines and tools&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Experience with common front-end development tools such as Babel, Webpack, NPM, etc.&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Ability to understand business requirements and translate them into technical requirements&lt;/li&gt;&lt;br /&gt;&lt;li&gt;A knack for benchmarking and optimization&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Familiarity with code versioning tools GIT&lt;/li&gt;&lt;br /&gt;&lt;/ul&gt;</description>
+            <pubDate>Sun, 17 Sep 2017 02:29:45 Z</pubDate>
+            <a10:updated>2017-09-17T02:29:45Z</a10:updated>
+            <location xmlns="http://stackoverflow.com/jobs/">Kecamatan Setiabudi, Indonesia</location>
+        </item>
+        <item>
+            <guid isPermaLink="false">122732</guid>
+            <link>https://stackoverflow.com/jobs/122732/senior-software-engineer-golang-pt-tokopedia?a=F9WZ96V8dag</link>
+            <a10:author>
+                <a10:name>PT Tokopedia</a10:name>
+            </a10:author>
+            <category>go</category>
+            <category>c</category>
+            <category>python</category>
+            <category>reactjs</category>
+            <category>perl</category>
+            <title>Senior Software Engineer (Golang) at PT Tokopedia (Kecamatan Setiabudi, Indonesia)</title>
+            <description>&lt;p&gt;As a senior software engineer, you will bring solutions that change the lives of millions of users. Here at Tokopedia, you will work with a small team and can switch team or projects depending on business needs. We need people who are willing to learn and always eager to tackle exciting problems at a huge scale.&lt;/p&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Responsibilities:&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;ul&gt;&lt;br /&gt;&lt;li&gt;Hands on with code in either of GoLang, C, C++, Node.js, Ruby, Python. Multi-programming-lingual. The more the merrier.&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Comfortable working in a *nix environment &amp;amp; using cli.&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Eager to learn new tools, techniques, languages, and technologies.&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Passionate about making a difference to the world.&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Be able to contribute to system architecture and design.&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Be able to debug non-trivial application code.&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Be able to write clear, concise source-code documentation, unit and integration tests.&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Be able to think beyond code to architecture and user experience.&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Be able to communicate and coordinate within a team.&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Build a features, systems&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Solve technical problems&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Create scalable back-end&lt;/li&gt;&lt;br /&gt;&lt;/ul&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Skills &amp;amp; Requirements&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;&lt;strong&gt;Requirements:&lt;/strong&gt;&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;ul&gt;&lt;br /&gt;&lt;li&gt;&lt;br /&gt;&lt;p&gt;Prior experience with e-commerce or web application development (REST).&lt;/p&gt;&lt;br /&gt;&lt;/li&gt;&lt;br /&gt;&lt;li&gt;&lt;br /&gt;&lt;p&gt;Contributions to open-source projects (A link to github profile gets extra points).&lt;/p&gt;&lt;br /&gt;&lt;/li&gt;&lt;br /&gt;&lt;li&gt;&lt;br /&gt;&lt;p&gt;Experience with nginx, postgres, redis, aws, git.&lt;/p&gt;&lt;br /&gt;&lt;/li&gt;&lt;br /&gt;&lt;li&gt;&lt;br /&gt;&lt;p&gt;Familiarity with unit testing, integration testing, and test-driven development.&lt;/p&gt;&lt;br /&gt;&lt;/li&gt;&lt;br /&gt;&lt;li&gt;&lt;br /&gt;&lt;p&gt;Experience with HTML5, CSS, JQuery, Bootstrap etc.&lt;/p&gt;&lt;br /&gt;&lt;/li&gt;&lt;br /&gt;&lt;li&gt;&lt;br /&gt;&lt;p&gt;Knowledge of XHTML, Perl, GoLang, PHP.&lt;/p&gt;&lt;br /&gt;&lt;/li&gt;&lt;br /&gt;&lt;li&gt;&lt;br /&gt;&lt;p&gt;Knowledge of SQL / NoSQL&lt;/p&gt;&lt;br /&gt;&lt;/li&gt;&lt;br /&gt;&lt;li&gt;&lt;br /&gt;&lt;p&gt;Knowledge of Unix/Linux environments&lt;/p&gt;&lt;br /&gt;&lt;/li&gt;&lt;br /&gt;&lt;/ul&gt;</description>
+            <pubDate>Sun, 17 Sep 2017 02:28:48 Z</pubDate>
+            <a10:updated>2017-09-17T02:28:48Z</a10:updated>
+            <location xmlns="http://stackoverflow.com/jobs/">Kecamatan Setiabudi, Indonesia</location>
+        </item>
+    </channel>
+</rss>

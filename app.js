@@ -16,12 +16,12 @@ app.use(bodyParser.json({type: 'application/x-www-form-urlencoded'}))
 
 app.use(cors());
 
-// const user = require('./routers/user')
+const api = require('./routes/api')
 
 app.get('/', function(req,res){
   res.send('express is listening')
 })
 
-// app.use('/user', user)
+app.use('/api', api)
 
 app.listen(3000)
